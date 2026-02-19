@@ -4,7 +4,7 @@ description: Create conditions where subjects feel safe enough to reveal what th
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4841
+  version: 1.0.4842
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - revelation-through-comfort
